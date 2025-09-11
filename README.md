@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Emilio! (Moleculax)
 
-Soy fundador de **Moleculax Software** y creador de **NeuroCode**, donde fusiono tecnología, filosofía y pedagogía emocional para diseñar productos digitales con impacto evolutivo. Cada sistema que creo es un ritual narrativo, una experiencia vocacional y una oportunidad de transformación.
+Creador de **NeuroCode**, donde fusiono tecnología, filosofía y pedagogía emocional para diseñar productos digitales con impacto evolutivo. Cada sistema que creo es un ritual narrativo, una experiencia vocacional y una oportunidad de transformación.
 
 ---
 
