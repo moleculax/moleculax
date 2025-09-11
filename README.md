@@ -17,7 +17,7 @@ Creador de **NeuroCode**, donde fusiono tecnología, filosofía y pedagogía emo
 > “Cada interacción técnica debe ser una experiencia emocional, evolutiva y significativa.”
 
 Mi enfoque integra:
-- Filosofía crítica y neurociencia aplicada.
+- Filosofía crítica.
 
 ---
 
