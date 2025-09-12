@@ -7,7 +7,7 @@ Creador de **NeuroCode**, donde fusiono tecnología, filosofía y pedagogía emo
 ## 🧠 ¿Qué hago?
 
 
-- 💻 Full-stack developer Php (nativo), AngularJS, Spring Boot, MySQL,  Java.
+ - 💻 Full-stack developer Php (nativo), AngularJS, Spring Boot, MySQL,  Java.
 
 
 ---
