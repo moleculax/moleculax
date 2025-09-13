@@ -13,9 +13,9 @@ Creador de **NeuroCode** (actualmente en desarrollo), donde se fusiona tecnolog�
 ---
 
 ## 🌍 Visión
-
-> “Cada interacción técnica debe ser una experiencia emocional, evolutiva y significativa.”
-
+```
+ “Cada interacción técnica debe ser una experiencia emocional, evolutiva y significativa.”
+```
 Mi enfoque integra:
 - Filosofía crítica.
 
