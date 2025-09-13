@@ -1,4 +1,4 @@
-# Emilio - (Moleculax)
+# Emilio J. Gomez
 
 Creador de **NeuroCode** (actualmente en desarrollo), donde se fusiona tecnología, filosofía y pedagogía emocional para diseñar productos digitales con impacto evolutivo. Cada sistema  es un ritual narrativo, una experiencia vocacional y una oportunidad de transformación.
 
