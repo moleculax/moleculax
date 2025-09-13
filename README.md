@@ -21,7 +21,7 @@ Mi enfoque integra:
 
 ---
 
-## 🛠️ Tecnologías favoritas
+## 🛠️ Tecnologías que uso
 
 ```java
 Lenguajes: Php, MySQL,  Java, HTML, JavaScript
