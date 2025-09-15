@@ -1,16 +1,33 @@
-# Emilio J. Gomez
+# Emilio J. Gomez - Perfil Profesional y Personal
 
-Creador de **NeuroCode** (actualmente en desarrollo), donde se fusiona tecnología, filosofía y pedagogía emocional para diseñar productos digitales con impacto evolutivo. Cada sistema  es un ritual narrativo, una experiencia vocacional y una oportunidad de transformación.
+## 🌐 Perfil Profesional
+
+**Desarrollador de Software | Backend | Big Data | Creatividad Tecnológica**
+
+Soy un profesional con experiencia en desarrollo backend utilizando **PHP**, **Java**, **Spring Boot**, **Maven**, así como en gestión de **bases de datos MySQL**. Me interesa la **automatización**, la **minería de datos** y el **big data**, aplicando soluciones eficientes y escalables.
+
+Poseo sólidos conocimientos en **programación orientada a objetos**, y tengo un interés constante en perfeccionarme en este lenguaje.  
+
+Además de mi perfil técnico, me caracterizo por mi **capacidad creativa y narrativa**, reflejada en otros proyectos 
+
+### Competencias principales
+- Desarrollo backend con **PHP (nativo)**, **Java** y **Spring Boot**.
+- Integración y despliegue continuo con **Maven**.
+- Bases de datos **MySQL**.
+-  **Big Data** (en aprendizaje).
+- Pensamiento creativo y filosófico aplicado a proyectos.
 
 ---
 
-## 🧠 ¿Qué hago?
+##  Perfil Personal
 
- 
- - 💻 Full-stack developer Php (nativo), AngularJS, Spring Boot, MySQL,  Java.
+Soy una persona que combina la **lógica del desarrollo de software** con la **creatividad de la escritura y la filosofía**. Me apasiona construir sistemas sólidos en backend y bases de datos, mientras busco nuevas formas de expresar ideas complejas en proyectos narrativos.
 
+El **aprendizaje constante** es parte de mi identidad: mejoro mis habilidades en **Java**, mientras exploro áreas como **IA**, y  **Big Data**.
 
----
+Fuera de lo técnico, me inspiran:
+- La **filosofía estoica**
+- La **fotografía de viajes**, capturando la esencia de cada experiencia.
 
 ## 🌍 Visión
 ```
@@ -27,4 +44,3 @@ Mi enfoque integra:
 Lenguajes: Php, MySQL,  Java, HTML, JavaScript
 Frameworks: Spring Boot, Thymeleaf, Bootstrap
 Herramientas: IntelliJ IDEA, Apache NetBeans , Git
-
