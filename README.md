@@ -1,4 +1,5 @@
 # Emilio J. Gomez - Perfil Profesional y Personal
+“Bienvenidos. Aquí, el debugging no es corrección: es transformación.”
 
 ## 🌐 Perfil Profesional
 
@@ -44,3 +45,6 @@ Mi enfoque integra:
 Lenguajes: Php, MySQL,  Java, HTML, JavaScript
 Frameworks: Spring Boot, Thymeleaf, Bootstrap
 Herramientas: IntelliJ IDEA, Apache NetBeans , Git
+
+```
+ “Cada sistema tiene errores. Cada error, una historia. Cada historia, una evolución.”
