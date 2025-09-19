@@ -43,13 +43,13 @@ Mi enfoque integra:
 
 ## 🛠️ Tecnologías que uso
 
+
+
 | Lenguajes                              | Bases de datos                                                                 | Frameworks & Librerías                                                           | IDEs & Herramientas                                                              |
 |----------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)](https://www.java.com/) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/) |
 | [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://www.php.net/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/) | [![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6.svg?logo=apache&logoColor=white)](https://netbeans.apache.org/) |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white)](https://www.oracle.com/database/) | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) | [![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)](https://git-scm.com/) |
-| [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) |                                                                                |                                                                                  |                                                                                  |
-
-
+| [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | &nbsp; | [![AngularJS](https://img.shields.io/badge/AngularJS-E23237.svg?logo=angularjs&logoColor=white)](https://angularjs.org/) | [![GNU/Linux](https://img.shields.io/badge/GNU/Linux-333333.svg?logo=linux&logoColor=white)](https://www.gnu.org/)
 
  “Cada sistema tiene errores. Cada error, una historia. Cada historia, una evolución.”
