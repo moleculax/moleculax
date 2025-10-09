@@ -8,7 +8,7 @@
 
 **Desarrollador  | Backend  | Creatividad Tecnológica**
 
-Soy un profesional con experiencia en desarrollo backend utilizando **PHP**, **Java**, **Spring Boot**, **Maven**, así como en gestión de **bases de datos MySQL**. Me interesa la **automatización**, la **minería de datos** y el **big data**, aplicando soluciones eficientes y escalables.
+Soy un profesional con experiencia en desarrollo backend utilizando **PHP (Nativo)**, **Java**, **Spring Boot**, **Maven**, así como en gestión de **bases de datos MySQL**. Me interesa la **automatización**, la **minería de datos** y el **big data**, aplicando soluciones eficientes y escalables.
  
 
 Además de mi perfil técnico, me caracterizo por mi **capacidad creativa y narrativa**, reflejada en otros proyectos 
