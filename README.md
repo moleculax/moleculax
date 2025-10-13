@@ -60,3 +60,5 @@ Mi enfoque integra:
 
 
  “Cada sistema tiene errores. Cada error, una historia. Cada historia, una evolución.”
+
+ [https://www.linkedin.com/in/moleculax/](https://www.linkedin.com/in/moleculax/)
