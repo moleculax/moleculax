@@ -14,7 +14,7 @@ Soy un profesional con experiencia en desarrollo backend utilizando **PHP (Nativ
 Además de mi perfil técnico, me caracterizo por mi **capacidad creativa y narrativa**, reflejada en otros proyectos 
 
 ### Competencias principales
-- Desarrollo backend con **PHP (nativo)**, **Java** y **Spring Boot**.
+- Desarrollo backend con **PHP (nativo)**, **JavaScript**, **Java** y **Spring Boot**.
 - Desarrollo frontend **React, AngularJS**
 - **Pair programming**
 - Integración y despliegue continuo con **Maven**.
