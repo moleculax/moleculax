@@ -27,7 +27,7 @@ Además de mi perfil técnico, me caracterizo por mi **capacidad creativa y narr
 
 ### Competencias principales
 - Desarrollo backend con **PHP (nativo)**, **JavaScript**, **Java** y **Spring Boot**.
-- Desarrollo frontend **React, AngularJS**
+- Desarrollo frontend **React,NextJS, AngularJS**
 - **Pair programming**
 - Integración y despliegue continuo con **Maven**.
 - Bases de datos **MySQL, PostgreSQL**.
