@@ -1,5 +1,5 @@
 # Emilio J. Gomez 
-### @moleculax
+### @moleculax  
  **Aquí, el debugging no es corrección: es transformación. El error no es enemigo, es maestro. El sistema no falla: evoluciona.**
 ###  
 ## 🌐 Ecosistema/Tech Stack:
