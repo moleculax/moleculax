@@ -31,4 +31,5 @@
 [![Contactos](https://img.shields.io/badge/Contactos-%23007BFF.svg?logo=gmail&logoColor=white)](https://moleculaxapp.vercel.app/contactosRedis)
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moleculax&layout=compact&theme=dark)
 
