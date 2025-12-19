@@ -31,5 +31,15 @@
 [![Contactos](https://img.shields.io/badge/Contactos-%23007BFF.svg?logo=gmail&logoColor=white)](https://moleculaxapp.vercel.app/contactosRedis)
 ###
 
+## 📊 Status GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moleculax&layout=compact&theme=dark)
+
+![Repos por lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moleculax&theme=dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moleculax&show_icons=true&theme=dark)
+
+![Emilio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=moleculax&theme=github)
+
+
+
 
