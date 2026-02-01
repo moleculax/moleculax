@@ -27,7 +27,7 @@
 [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()
 [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](http://moleculax.blogspot.com)
 [![Docker Hub](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/moleculax)
-[![Moleculax App 🚀](https://img.shields.io/badge/Moleculax%20App-%23000000.svg?logo=vercel&logoColor=white)](https://moleculaxapp.vercel.app/)
+[![Moleculax Web 🚀](https://img.shields.io/badge/Moleculax%20App-%23000000.svg?logo=vercel&logoColor=white)](https://moleculax.beer/)
 [![Contactos](https://img.shields.io/badge/Contactos-%23007BFF.svg?logo=gmail&logoColor=white)](https://moleculaxapp.vercel.app/contactosRedis)
 ###
 
